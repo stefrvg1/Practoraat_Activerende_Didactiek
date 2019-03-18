@@ -1,0 +1,230 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    /* padding-top: 70px; */
+    margin-bottom: 160px;
+}
+
+/* nav > div.bg {
+    position: absolute;
+    height: 100%;
+    left: 0;
+    right: 0;
+} */
+
+.navbar-inverse {
+    transition: background-color 0.2s ease;
+    border: 0px;
+}
+
+.navbar-inverse-transparent {
+    /* background-color:rgba(255, 255, 255, 0.3); */
+    /* background-color: transparent; */
+    
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.4+0,0+100 */
+background: -moz-linear-gradient(top, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+}
+
+.navbar-brand>img {
+    width: auto;
+    height: 100%;
+    max-width: 400px;
+}
+
+@media (min-width: 768px) {
+    body {
+        /* padding-top: 101px; */
+    }
+
+    .navbar-brand {
+        padding: 0px;
+    }
+
+    .navbar-brand>img {
+        height: 100%;
+        padding: 15px;
+        width: auto;
+    }
+
+    .nav-wrapper .navbar-brand {
+        height: 80px;
+    }
+
+    .nav-wrapper .nav >li >a {
+        /* padding-top: 30px;
+        padding-bottom: 30px; */
+        
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .nav-wrapper .navbar-toggle {
+        padding: 10px;
+        margin: 25px 15px 25px 0;
+    }
+
+    .search-menu {
+        width: 300px;
+    }
+
+    .navbar-nav > li {
+        margin-left: 5px;
+    }
+
+    .navbar-nav > li > a {
+        height: 50px;
+    }
+}
+
+.width-full {
+    width: 100%;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    margin-top: -1px;
+}
+
+.header {
+    background-color: #333;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170px;
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .header {
+        height: 300px;
+    }
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #E5E5E5;
+}
+
+.header-gradient {
+    height: 100%;
+    width: 100%;
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.4+0,0.2+100 */
+background: -moz-linear-gradient(top, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.2) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.2) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66000000', endColorstr='#33000000',GradientType=0 ); /* IE6-9 */
+}
+
+.container-extrapadding {
+    padding: 15px 0;
+}
+
+@media (min-width: 768px) {
+    .container-extrapadding {
+        padding: 30px 0;
+    }
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #121212;
+    height: 160px;
+    padding: 5px;
+    color: #AEAEAE;
+}
+
+footer img.logo {
+    margin: 5px 0;
+    max-width: 140px;
+}
+
+.btn-social {
+    padding: 0;
+    margin-top: 5px;
+}
+
+.social {
+    transition: color 0.2s ease;
+    color: #6E6E6E;
+}
+
+.youtube:hover {
+    color: #BB0000;
+}
+
+.twitter:hover {
+    color: #55ACEE;
+}
+
+.instagram:hover {
+    color: #8A3AB9;
+}
+
+/* bootstrap overwrites */
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: none;
+    background: rgba(0,0,0,0.4);
+    border-radius: 3px;
+}
+
+.top5 {
+    margin-top: 5px;
+}
+
+.top15 {
+    margin-top: 15px;
+}
+
+.bottom15 {
+    margin-bottom: 15px;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.article-img {
+    width: 100%;
+}
+
+.article-title > a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+@media (min-width: 768px) {
+    .top0 {
+        margin-top: 0;
+    }
+}
+
+.top0-header {
+    margin-top: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+}
+
+.navbar-form-reset {
+    margin-left: 0;
+    margin-right: 0;
+}
