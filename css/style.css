@@ -43,6 +43,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66000000', e
     left: 0;
     z-index: 1030;
 }
+.carousel{
+    align-items: center;
+    height: 200px;
+    width: 100%;
+}
 
 .nav-link{
     color: #ffffff;
