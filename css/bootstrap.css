@@ -4195,6 +4195,11 @@ input[type="button"].btn-block {
   line-height: inherit;
   white-space: nowrap;
 }
+.navbar-fixed-top, .navbar-fixed-bottom {
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
 
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;

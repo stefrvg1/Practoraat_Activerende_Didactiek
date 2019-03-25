@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <?php
 include "include/nav.html";
+include "include/header.html";
 ?>
+</head>
 
 <body>
 
-<?php
-include "include/header.html";
-?>
 <div class="container container-extrapadding">
     <div class="row top15">
         <div class="col-sm-12">
