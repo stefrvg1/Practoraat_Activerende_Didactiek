@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-include "include/nav.html";
+
+include "include/head.html";
+
 ?>
-
 <body>
-
 <?php
+include "include/nav.html";
 include "include/header.html";
 ?>
 

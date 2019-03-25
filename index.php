@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<?php
+
+include "include/head.html";
+
+?>
+<body>
 <?php
 include "include/nav.html";
 include "include/header.html";
 ?>
-</head>
-
-<body>
 
 <div class="container container-extrapadding">
     <div class="row top15">
@@ -25,11 +27,9 @@ include "include/header.html";
   include "include/footer.html";
   ?>
 
-  <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Custom scripts for this template -->
   <script src="js/clean-blog.min.js"></script>
 
 </body>
