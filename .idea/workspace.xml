@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d360161-5660-4063-a23a-334a7259c199" name="Default" comment="navbar aangepast met werkende headers">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/include/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/include/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/include/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/js/brands.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/js/brands.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/js/regular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/js/regular.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/js/solid.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/js/solid.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/js/v4-shims.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/js/v4-shims.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/werkvormen.php" beforeDir="false" afterPath="$PROJECT_DIR$/werkvormen.php" afterDir="false" />
-    </list>
+    <list default="true" id="6d360161-5660-4063-a23a-334a7259c199" name="Default" comment="navbar aangepast met werkende headers" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/werkvormen.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="2" />
+            <state relative-caret-position="187">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -236,7 +214,7 @@
       <workItem from="1553500531941" duration="13047000" />
       <workItem from="1557133130774" duration="6551000" />
       <workItem from="1557472058104" duration="443000" />
-      <workItem from="1557730243250" duration="303000" />
+      <workItem from="1557730243250" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="navbar compleet">
       <created>1553504173510</created>
@@ -256,7 +234,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29225000" />
+    <option name="totallyTimeSpent" value="29741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,7 +247,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17019667" />
@@ -454,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/werkvormen.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
