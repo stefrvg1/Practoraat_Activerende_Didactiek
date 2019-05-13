@@ -1,23 +1,16 @@
-
-<body>
 <div class="nav-wrapper">
-    <nav class="navbar navbar-inverse navbar-inverse-transparent navbar-fixed-top">
+    <nav class="navbar navbar-dark navbar-dark bg-dark-transparent fixed-top navbar-expand-md">
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-
-                <a class="navbar-brand" href="index.php"><img src="https://activeerjeles.nl/img/logo-transparent.png" alt="Activeerjeles">
-                </a>
-            </div>
-
+            <button type="button" class="navbar-toggler collapsed" data-toggle="collapse"
+                    data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span>
+                &#x2630;</button> <a class="navbar-brand"
+                                     href="index.php"><img src="https://activeerjeles.nl/img/logo-transparent.png" alt="Activeerjeles">
+    
+        </a>
             <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right navbar-light">
-                    <li><a href="werkvormen.php">Werkvormen</a></li>
+                <ul class="nav navbar-nav ml-auto navbar-light">
+                    <li class="nav-item"><a href="werkvormen.php" class="nav-link">Werkvormen</a>
+                    </li>
                     <!--<li><a href="">ICT-tools</a></li>-->
                     <!--<li><a href="">Vlog</a></li>-->
                     <!--<li><a href="">Agenda</a></li>-->
@@ -25,17 +18,17 @@
                     <!--<li><a href="">Kaartspel</a></li>-->
                     <!--<li><a href="">Boek</a></li>-->
                     <!--<li><a href="">-</a></li>-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-search" aria-hidden="true"></i></a>
-
-                        <ul class="dropdown-menu search-menu" role="menu">
-                            <form class="navbar-form navbar-form-reset" method="get" role="search">
+                    <li class="dropdown nav-item"> <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
+                                                      aria-expanded="false"><i class="fa fa-search" aria-hidden="true"></i></a>
+                        <ul
+                                class="dropdown-menu search-menu" role="menu">
+                            <form class="form-inline form-inline-reset" method="get" role="search">
                                 <div class="input-group width-full">
-                                    <input type="text" name="search" class="form-control" placeholder="Zoekterm">
-                                    <span class="input-group-btn">
-                                                <button class="btn btn-default width-full" type="submit">Zoeken</button>
-                                            </span>
+                                    <input type="text" name="search" class="form-control" placeholder="Zoekterm"> <span class="input-group-btn">
+
+                                    <button class="btn btn-secondary width-full" type="submit">Zoeken</button>
+
+                                </span>
                                 </div>
                             </form>
                         </ul>
@@ -45,4 +38,3 @@
         </div>
     </nav>
 </div>
-</body>

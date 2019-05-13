@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/gulpfile.min.js" />
+        <item url="file://$PROJECT_DIR$/js/clean-blog.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/all.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/brands.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/brands.min.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/fontawesome.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/regular.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/solid.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/v4-shims.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/jquery/jquery.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/jquery/jquery.min.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/jquery/jquery.slim.min.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gulpfile.min.js" />
+      <root url="file://$PROJECT_DIR$/js/clean-blog.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/all.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/brands.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/brands.min.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/fontawesome.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/regular.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/solid.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/fontawesome-free/js/v4-shims.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/jquery/jquery.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/jquery/jquery.min.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/jquery/jquery.slim.min.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
